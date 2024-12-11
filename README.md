@@ -1,4 +1,4 @@
-# Chananon.hithub.io
+# Chananon.github.io
 # Data Analyst
 
 ### Education
